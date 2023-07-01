@@ -1,4 +1,4 @@
-[Go to Back to Home Page]([https://github.com/ukthanki/MIT_House_Price_Prediction_Project](https://ukthanki.github.io/))
+[Go to Back to Home Page](https://ukthanki.github.io/)
 
 # MIT Data Engineering Professional Certification
 
