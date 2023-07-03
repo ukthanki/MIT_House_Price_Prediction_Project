@@ -4,6 +4,10 @@
 
 ## House Price Prediction Model
 
+<p align="center">
+    <img width="100%" src="https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/29fc8ce1-f3c8-49df-b5f6-cd6c6b10eb12">
+</p>
+
 ![image](https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/29fc8ce1-f3c8-49df-b5f6-cd6c6b10eb12)
 
 Up to this point in the course, we had covered the following topics:
