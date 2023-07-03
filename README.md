@@ -30,4 +30,4 @@ The purpose of this project is to analyze housing data in order to build a predi
 
 | ![space-1.jpg](https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/60182bf7-1cf3-45e2-97db-4d1981a97c59) | 
 |:--:| 
-| *Space* |
+| **Space** |
