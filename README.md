@@ -20,7 +20,7 @@ I started by loading the raw data from a csv file that was provided into a Panda
 
 | ![image](https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/809779b0-251f-41d9-bbee-21ad7f6c7746)| 
 |:--:| 
-| **Space** |
+| **Figure 1. Null entry counts in each field in the original dataset.** |
 
 You can view the full Project in the "Module 7_Final_Project_Thanki.ipynb" file in the Repository.
 
