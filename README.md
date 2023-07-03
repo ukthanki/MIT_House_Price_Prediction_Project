@@ -16,10 +16,12 @@ Up to this point in the course, I had learned the following topics:
 
 For the first project, I was tasked with analyzing housing data in order to build a predictive model that can be used to determine the house price of a house with certain characteristics.
 
+I started by loading the raw data from a csv file that was provided into a Pandas Data Frame. Since the project involved Linear Regression, I selected several fields that I believed would have an impact on house price as an initial hypothesis. However, several fields have significant number of null records, which necessitates that the data be cleaned before we begin the modeling process.
 
-
-| ![space-1.jpg](https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/60182bf7-1cf3-45e2-97db-4d1981a97c59) | 
+| ![image](https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/809779b0-251f-41d9-bbee-21ad7f6c7746)| 
 |:--:| 
 | **Space** |
 
 You can view the full Project in the "Module 7_Final_Project_Thanki.ipynb" file in the Repository.
+
+![image](https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/809779b0-251f-41d9-bbee-21ad7f6c7746)
