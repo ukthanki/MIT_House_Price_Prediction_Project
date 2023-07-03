@@ -35,6 +35,6 @@ In other words, Case 3 with Eight Variables produced the most accurate model wit
 |:--:| 
 | **Figure 2.** Score values per case. |
 
-Overall, this was an interesting project because it allowed me to explore a real-world dataset and understand the mathematical relationship between various home characteristics and the eventual selling proce of a home.
+Overall, this was an interesting project because it allowed me to explore a real-world dataset and understand the mathematical relationship between various home characteristics and the eventual selling price of a home.
 
-You can view the full Project in the "Module 7_Final_Project_Thanki.ipynb" file in the Repository.
+**You can view the full Project in the "Module 7_Final_Project_Thanki.ipynb" file in the Repository.**
