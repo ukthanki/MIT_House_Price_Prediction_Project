@@ -16,7 +16,8 @@ The purpose of this project is to analyze housing data in order to build a predi
 
 
 
-
 <p align="center">
-  ![download](https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/b6ee507e-e99b-4efd-9028-c5ecf528e4fc)
+  <img width="460" height="300" src="https://picsum.photos/460/300">
 </p>
+  ![download](https://github.com/ukthanki/MIT_House_Price_Prediction_Project/assets/42117481/b6ee507e-e99b-4efd-9028-c5ecf528e4fc)
+
